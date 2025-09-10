@@ -1,9 +1,9 @@
 # About 
 
-Repository contains reports from penetration laboratories conducted during Polish studies at Warsaw University of Technology, regarding:
-* Black-box penetration test with full report 
+Repository contains reports from penetration testing laboratories conducted during Polish studies at Warsaw University of Technology, regarding:
+* Black-box penetration test with full, official report 
 * Buffer-overflow vulnerability exploitation
-* Web application testing, including such attacks as: SQL injection, XSS, Path Traversal, IDOR, CSRF
+* Web application testing, including attacks such as: SQL injection, XSS, Path Traversal, IDOR, CSRF
 * Application attack with: recon, Firewall evasion, enumeration, exploitation (CVE), privilege escalation
 
 ## Used Tools
